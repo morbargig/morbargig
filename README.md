@@ -2,16 +2,15 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
+I am a junior developer looking for a job , developing bots for a living . 🌈
+**💻 Distributed Systems, 📱 iOS apps and 🌐 Website**     
 
-* 🧐   Interested in full stack. Recent focus on backend.
-* 💼   Senior Back End Engineer at Alibaba Group.
-* 🎓   Bachelor of Engineering in Computer Science and Engineering, GPA 3.82/4.0, TOP 3%.
-* 🌱   Currently learning Math & Philosophy.
-* 📚   Reading more about Apple, Harry Potter and how the computer works.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
+* 🌐   Interested in full stack.
+* 🧐   Interested in DevOps.
+* 🎓   i finished study network administration, full stack developer and DevOps engineering.
+* 💼   Currently working from home on program i developed. 
 * ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 3.16 million PV / 0.81 million UV).
+* 💻   working on DevOps project, and more features for my busines. 
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
@@ -49,10 +48,13 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 
 <!--
 <p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
+...
 <img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
 </p>
 -->
+
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
+
 
 </p>
 
