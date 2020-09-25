@@ -2,8 +2,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-I am a junior developer looking for a job , developing bots for a living . 🌈
-**💻 Distributed Systems, 📱 iOS apps and 🌐 Website**     
+I am a junior developer looking for a job , developing bots for a living . 🌈    
 
 * 🌐   Interested in full stack.
 * 🧐   Interested in DevOps.
