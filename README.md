@@ -43,7 +43,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 <p align="center">
 <a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-sharp/24/000000/whatsapp.png"/></a>
 <a href= "https://www.linkedin.com/in/mor-bargig-744854182/"><img src="https://img.icons8.com/material-rounded/24/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/bargigmor"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://twitter.com/bargigmor"><img src="https://img.icons8.com/material-sharp/24/000000/twitter.png"/></a>
 <a href= "https://halfrost.com"><img src="https://img.icons8.com/material-sharp/24/000000/parse-from-clipboard.png"/></a>
 </p>
 
