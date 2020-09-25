@@ -47,10 +47,12 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 <a href= "https://halfrost.com"><img src="https://img.icons8.com/material-sharp/24/000000/parse-from-clipboard.png"/></a>
 </p>
 
+<!--
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
 </p>
+-->
 
 </p>
 
