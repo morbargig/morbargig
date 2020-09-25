@@ -13,9 +13,9 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 <details>
   <summary>Some other achievements about me~e~e</summary>
   <br>
-* 🎓   so i have knowledge in the next languages: Javascript, Python, Bash, java, c, powershell. <br>
-* 🌐   develop website in react libary and Node.js servers. <br>
-* 💻   familiar with Jnkins, Docker(-compose), kubernetis, teraform, fluxcd, azure, aws, gcp. <br>
+* 🎓   so i have knowledge in the next languages: Javascript, Python, Bash, java, c, powershell, CMD. <br>
+* 🌐   develop website in react libary and servers in Node.js. <br>
+* 💻   familiar with : Docker (docker-compose), Kubernetes, VMWare, Hyper V, Jenkins, Artifactory, teraform, fluxcd, azure, aws, gcp. <br>
 
 <!--
 <p align="center">
