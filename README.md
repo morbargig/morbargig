@@ -13,7 +13,6 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 <details>
   <summary>Some other achievements about me~e~e</summary>
   <br>
-* 🌐   Interested in full stack.
 * 🎓   so i have knowledge in the next languages: Javascript, Python, Bash, java, c, powershell. <br>
 * 🌐   develop website in react libary and Node.js servers. <br>
 * 💻   familiar with Jnkins, Docker(-compose), kubernetis, teraform, fluxcd, azure, aws, gcp. <br>
