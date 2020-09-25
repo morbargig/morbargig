@@ -13,9 +13,9 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 <details>
   <summary>Some other achievements about me~e~e</summary>
   <br>
-
-* 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
-* 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
+*     so i have knowledge in the next languages: Javascript, Python, Bash, java, c, powershell.
+*     develop website in react libary and Node.js servers.
+*     familiar with Jnkins, Docker(-compose), kubernetis, teraform, fluxcd, azure, aws, gcp. 
 
 <p align="center">
 <a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
