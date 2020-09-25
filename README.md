@@ -40,10 +40,10 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-sharp/24/000000/whatsapp.png"/></a>
+<a href= "https://api.whatsapp.com/send?l=en&phone=972528612379&text=Can%20we%20set%20an%20appointment?%20"><img src="https://img.icons8.com/material-sharp/24/000000/whatsapp.png"/></a>
 <a href= "https://www.linkedin.com/in/mor-bargig-744854182/"><img src="https://img.icons8.com/material-rounded/24/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/bargigmor"><img src="https://img.icons8.com/material-sharp/24/000000/twitter.png"/></a>
-<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-sharp/24/000000/parse-from-clipboard.png"/></a>
+<a href= "https://mor-bargig-cv.herokuapp.com"><img src="https://img.icons8.com/material-sharp/24/000000/parse-from-clipboard.png"/></a>
 </p>
 
 <!--
