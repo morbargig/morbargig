@@ -6,7 +6,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 
 * 🌐   Interested in full stack.
 * 🧐   Interested in DevOps.
-* 🎓   i finished study network administration, full stack developer and DevOps engineering.
+* 🎓   I finished study network administration, full stack developer and DevOps engineering.
 * 💼   Currently working from home with program i developed. 
 * 💻   working on DevOps project, and more features for my business.   
 
