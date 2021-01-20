@@ -18,8 +18,9 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 * 📙   experience with DBs: mongodb, SQL, MySQL, firebase (Realtime Database, Storage), localStorage, localForage <br> 
 * 💻   familiar with : Docker (docker-compose), Kubernetes, Wsl, VMWare, Hyper-V, Jenkins, Artifactory, teraform, fluxcd, Azure, AWS, GCP. <br>
 
-### Badges
+ ### Badges :
 <p align="center">
+     
 <a href= "https://www.youracclaim.com/badges/c00a5e80-f06a-4ba0-b7c3-7a6c07be0abc/linked_in_profile"><img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/MCSA.png" height="100" width="100"/></a>
 <a href= "https://drive.google.com/file/d/1pkcClx2aDqbIUsBzxPDHZTCiA8WWlv_9/view"><img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/pcap.png" height="100" width="100"/></a>
 </p>
@@ -28,7 +29,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morbargig&hide_langs_below=1&theme=default&line_height=27&layout=compact" height="200" width="400" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=morbargig&show_icons=true&count_private=true&include_all_commits=true&line_height=31.5" alt="halfrost's Github Stats" height="200" width="400" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=morbargig&column=7" alt="halfrost's Github Trophy" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=morbargig&column=7" alt="halfrost's Github Trophy" width="1000" />
 </p>
 
 </details>
