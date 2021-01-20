@@ -20,20 +20,19 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 
 
 
-<br>
-  <p float="center">
-    <img float="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morbargig&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-    <img float="center" src="https://github-readme-stats.vercel.app/api?username=morbargig&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
-    <img float="center" src="https://github-profile-trophy.vercel.app/?username=morbargig&column=7" alt="halfrost's Github Trophy" />
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morbargig&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=morbargig&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=morbargig&column=7" alt="halfrost's Github Trophy" />
 </p>
 
 </details>
   
 <hr>
-<p float="center">
+<p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 
-<p float="center">
+<p align="center">
 <a href= "https://api.whatsapp.com/send?l=en&phone=972528612379&text=Can%20we%20set%20an%20appointment?%20"><img src="https://img.icons8.com/material-sharp/24/000000/whatsapp.png"/></a>
 <a href= "https://www.linkedin.com/in/mor-bargig-744854182/"><img src="https://img.icons8.com/material-rounded/24/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/bargigmor"><img src="https://img.icons8.com/material-sharp/24/000000/twitter.png"/></a>
@@ -41,7 +40,8 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 </p>
 
 
-<p  float="center">
+<p  align="center">
+...
 <img src="https://visitor-badge.laobi.icu/badge?page_id=morbargig.morbargig" alt="visitor badge"/>       
 </p>
 
