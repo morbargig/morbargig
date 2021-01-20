@@ -54,15 +54,13 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 </p>
 
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>
 
-
-</p>
 
 ---
 
 
 <p align="center">
+  dsfasdf
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
