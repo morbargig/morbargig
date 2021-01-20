@@ -81,9 +81,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 ### CSPs
   
  <p float="left">
-  <a href="https://bit.ly/2W7a91W" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/do.gif"  height="75" />
-  </a> 
+
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/aws.gif"  height="75" />
   </a>
@@ -95,12 +93,6 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   <a href="https://grafana.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
   </a>
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/prometheus.gif" height="65" />
-  </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/influxdata.gif" height="60" />
-  </a>
 </p>
 
 ### Databases
@@ -109,9 +101,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
   </a>
-  <a href="https://www.timescale.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/tsdb.gif" width="120" />
-  </a>&nbsp;&nbsp;
+
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/mongo.gif" height="80" />
   </a>
