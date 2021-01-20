@@ -65,17 +65,41 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   <a href="https://helm.sh/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/helm.gif"  height="75" />
   </a>
-
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/html-css-js.png" height="70" />
   </a>
+    <a href="https://www.javascript.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/js.png" height="70" />
+  </a>
+      <a href="https://www.javascript.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/python.png" height="70" />
+  </a>
+        <a href="https://vuejs.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Vue.js.png" height="70" />
+  </a>
+          <a href="https://reactjs.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/React.js.png" height="70" />
+  </a>
+            <a href="https://nodejs.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Node.js.png" height="70" />
+  </a>
+              <a href="https://www.apple.com/mac/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/mac.png" height="70" />
+  </a>
+                <a href="https://www.microsoft.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/windows.png" height="70" />
+  </a>
+                  <a href="https://www.linux.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/linux.png" height="70" />
+  </a>
+  
+  
  </p>
   
 ### CSPs
   
  <p float="left">
-
-  <a href="https://aws.amazon.com/" target="_blank" >
+  <a href="https://cloud.google.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/aws.gif"  height="75" />
   </a>
     <a href="https://aws.amazon.com/" target="_blank" >
@@ -100,7 +124,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/mongo.gif" height="80" />
   </a>
-    <a href="https://www.mongodb.com/" target="_blank" >
+    <a href="https://www.mysql.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/MySql.png" height="80" />
   </a>
 </p>
