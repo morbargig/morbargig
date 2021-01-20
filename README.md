@@ -48,9 +48,6 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 
 
 
-
-
-
 <p float="left">
 
   <a href="https://www.docker.com/" target="_blank" >
