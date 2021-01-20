@@ -78,6 +78,9 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/aws.gif"  height="75" />
   </a>
+    <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/gcp.png"  height="75" />
+  </a>
  </p>
   
 ### Monitoring
