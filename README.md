@@ -27,13 +27,13 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 <a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
 </p>
 
-<!--
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=halfrost&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=halfrost&column=7" alt="halfrost's Github Trophy" />
 </p>
--->
+
 </details>
   
 <hr>
@@ -47,21 +47,21 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 <a href= "https://mor-bargig-cv.herokuapp.com"><img src="https://img.icons8.com/material-sharp/24/000000/parse-from-clipboard.png"/></a>
 </p>
 
-<!--
+
 <p  align="center">
 ...
 <img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
 </p>
--->
 
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>
 
 
 </p>
 
 ---
 
-<!--
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
