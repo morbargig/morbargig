@@ -14,9 +14,9 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   <summary>Some other achievements about me~e~e</summary>
   <br>
 * 🎓   so i have knowledge in the next languages: Javascript, Python, Bash, java, c, powershell, CMD, php. <br>
-* 🌐   develop website in React.js,Vue.js libary and servers in Node.js. <br>
+* 🌐   develop website in React.js, Vue.js and servers in Node.js. <br>
 * 📙   experience with DBs: mongodb, SQL, MySQL, firebase (Realtime Database, Storage), localStorage, localForage <br> 
-* 💻   familiar with : Docker (docker-compose), Kubernetes, Wsl, VMWare, Hyper V, Jenkins, Artifactory, teraform, fluxcd, Azure, AWS, GCP. <br>
+* 💻   familiar with : Docker (docker-compose), Kubernetes, Wsl, VMWare, Hyper-V, Jenkins, Artifactory, teraform, fluxcd, Azure, AWS, GCP. <br>
 
 <p align="center">
 <a href= "https://www.youracclaim.com/badges/c00a5e80-f06a-4ba0-b7c3-7a6c07be0abc/linked_in_profile"><img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/MCSA.png" height="100" width="100"/></a>
