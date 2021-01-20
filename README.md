@@ -6,7 +6,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 
 * 🌐   Interested in full stack.
 * 🧐   Interested in DevOps.
-* 🎓   I finished study network administration, full stack developer and DevOps engineering.
+* 🎓   I finished study network administration, full stack development and DevOps engineering.
 * 💼   Currently working from home with program i developed. 
 * 💻   working on DevOps project, and more features for my business.   
 
@@ -14,11 +14,11 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   <summary>Some other achievements about me~e~e</summary>
   <br>
 * 🎓   so i have knowledge in the next languages: Javascript, Python, Bash, java, c, powershell, CMD, php. <br>
-* 🌐   develop website in react libary and servers in Node.js. <br>
-* 📙   experience with DBs: mongodb, SQL, MySQL, firebase (Realtime Database, Storage), localStorage <br> 
+* 🌐   develop website in React.js,Vue.js libary and servers in Node.js. <br>
+* 📙   experience with DBs: mongodb, SQL, MySQL, firebase (Realtime Database, Storage), localStorage, localForage <br> 
 * 💻   familiar with : Docker (docker-compose), Kubernetes, Wsl, VMWare, Hyper V, Jenkins, Artifactory, teraform, fluxcd, Azure, AWS, GCP. <br>
 
-<!--
+
 <p align="center">
 <a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
 <a href= "https://img.halfrost.com/certificate/IEEE_MEM500_97002879.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
@@ -26,7 +26,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
 <a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
 </p>
--->
+
 <!--
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
