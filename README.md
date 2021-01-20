@@ -157,6 +157,10 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
     <a href="https://www.mysql.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/MySql.png" height="80" />
   </a>
+  </a>
+    <a href="https://firebase.google.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/firebase.png" height="80" />
+  </a>
 </p>
 
 
