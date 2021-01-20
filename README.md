@@ -76,6 +76,14 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   <a href="https://nodejs.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Node.js.png" height="70" />
   </a>
+
+  
+  
+ </p>
+
+ ### OSs
+
+ <p float="left">
   <a href="https://www.apple.com/mac/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/mac.png" height="70" />
   </a>
@@ -85,9 +93,11 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   <a href="https://www.linux.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/linux.png" height="70" />
   </a>
+    <a href="https://www.ubuntu.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/ubuntu.png" height="70" />
+  </a>
+  </p>
   
-  
- </p>
 
  ### Languages
 
