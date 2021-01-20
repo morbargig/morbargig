@@ -125,7 +125,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/mongo.gif" height="80" />
   </a>
     <a href="https://www.mysql.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/MySql.png" height="80" />
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/MySql.jpg" height="80" />
   </a>
 </p>
 
