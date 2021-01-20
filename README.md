@@ -20,11 +20,11 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 
 
 
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morbargig&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=morbargig&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=morbargig&column=7" alt="halfrost's Github Trophy" />
+<br>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morbargig&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=morbargig&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=morbargig&column=7" alt="halfrost's Github Trophy" />
 </p>
 
 </details>
@@ -94,17 +94,17 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
  ### OSs
 
  <p float="left">
+   <a href="https://www.linux.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/linux.png" height="70" />
+  </a>
+  <a href="https://www.ubuntu.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/ubuntu.gif" height="70" />
+  </a>
   <a href="https://www.apple.com/mac/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/mac.png" height="70" />
   </a>
   <a href="https://www.microsoft.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/windows.png" height="70" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/linux.png" height="70" />
-  </a>
-    <a href="https://www.ubuntu.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/ubuntu.gif" height="70" />
   </a>
   </p>
   
