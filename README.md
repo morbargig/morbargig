@@ -65,15 +65,8 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   <a href="https://helm.sh/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/helm.gif"  height="75" />
   </a>
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/html-css-js.png" height="70" />
-  </a>
-    <a href="https://www.javascript.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/js.png" height="70" />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/python.png" height="70" />
-  </a>
+
+
   <a href="https://reactjs.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/React.png" height="70" />
   </a>
@@ -95,7 +88,21 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   
   
  </p>
-  
+
+ ### Languages
+
+ <p float="left">
+   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/html-css-js.png" height="70" />
+  </a>
+    <a href="https://www.javascript.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/js.png" height="70" />
+  </a>
+    <a href="https://www.javascript.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/python.png" height="70" />
+  </a>
+</p>
+
 ### CSPs
   
  <p float="left">
