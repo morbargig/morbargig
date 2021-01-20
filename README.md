@@ -81,13 +81,13 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Vue.js.png" height="70" />
   </a>
   <a href="https://nodejs.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Node.js.jpg" height="70" />
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Node.js.png" height="70" />
   </a>
   <a href="https://www.apple.com/mac/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/mac.png" height="70" />
   </a>
   <a href="https://www.microsoft.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/windows.jpg" height="70" />
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/windows.png" height="70" />
   </a>
   <a href="https://www.linux.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/linux.png" height="70" />
