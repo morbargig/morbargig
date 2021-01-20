@@ -56,9 +56,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 
 
 <p float="left">
-  <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/golang.gif"  height="90" />
-  </a>
+
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/docker.gif"  height="80" /> 
   </a>
@@ -74,9 +72,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   <a href="https://helm.sh/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/helm.gif"  height="75" />
   </a>
-  <a href="https://grpc.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/grpc.gif"  height="75" />
-  </a>
+
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/html-css-js.png" height="70" />
   </a>
