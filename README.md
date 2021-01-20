@@ -22,7 +22,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morbargig" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morbargig&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=morbargig&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=morbargig&column=7" alt="halfrost's Github Trophy" />
 </p>
@@ -47,9 +47,6 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 </p>
 
 
-
-
----
 
 
 
@@ -105,21 +102,6 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/mongo.gif" height="80" />
   </a>
 </p>
-
--->
-
-**halfrost/halfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 ### 📫 How to reach me? 
