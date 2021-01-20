@@ -63,9 +63,6 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/terraform.gif" width="120" />
   </a>
-  <a href="https://helm.sh/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/helm.gif"  height="75" />
-  </a>
     <a href="https://helm.sh/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/helm.gif"  height="75" />
   </a>
