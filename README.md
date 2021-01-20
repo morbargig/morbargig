@@ -106,7 +106,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 
 ### 📫 How to reach me? 
 
-  <!-- ⦿ Visit my [Website](https://morbargig.github.io/) 🌐 <br> -->
+  ⦿ Visit my [Website](https://morbargig.github.io/) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/mor-bargig-744854182/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/bargigmor) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:morbargig@gmail.com) 💌 <br>
