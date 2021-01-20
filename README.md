@@ -67,20 +67,30 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   </a>
 
 
+
+
+
+  
+  
+ </p>
+
+ ### Fronts
+ <p float="left">
   <a href="https://reactjs.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/React.png" height="70" />
   </a>
   <a href="https://vuejs.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Vue.js.png" height="70" />
   </a>
+  </p>
+
+  ### Back
+   <p float="left">
   <a href="https://nodejs.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Node.js.png" height="70" />
   </a>
-
+  </p>
   
-  
- </p>
-
  ### OSs
 
  <p float="left">
