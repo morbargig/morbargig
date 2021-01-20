@@ -18,19 +18,9 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 * 📙   experience with DBs: mongodb, SQL, MySQL, firebase (Realtime Database, Storage), localStorage, localForage <br> 
 * 💻   familiar with : Docker (docker-compose), Kubernetes, Wsl, VMWare, Hyper V, Jenkins, Artifactory, teraform, fluxcd, Azure, AWS, GCP. <br>
 
-
 <p align="center">
-<a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_MEM500_97002879.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
-<a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=halfrost&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=halfrost&column=7" alt="halfrost's Github Trophy" />
+<a href= "https://www.youracclaim.com/badges/c00a5e80-f06a-4ba0-b7c3-7a6c07be0abc/linked_in_profile"><img src="https://github.com/halfrost/halfrost/blob/master/icons/MCSA.png" height="100" width="100"/></a>
 </p>
 
 <p align="center">
@@ -54,7 +44,6 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 
 
 <p  align="center">
-
 <img src="https://visitor-badge.laobi.icu/badge?page_id=morbargig.morbargig" alt="visitor badge"/>       
 </p>
 
