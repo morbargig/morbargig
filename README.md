@@ -13,8 +13,8 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 <details>
   <summary>Some other achievements about me~e~e</summary>
   <br>
-* 🎓   so i have knowledge in the next languages: Javascript, Python, Bash, java, c, powershell, CMD, php. <br>
-* 🌐   develop website in React.js, Vue.js and servers in Node.js. <br>
+* 🎓   so i have knowledge in the next languages: Javascript, TypeScript, Python, Bash, java, c, powershell, CMD, php. <br>
+* 🌐   develop website in React.js, Vue.js, Angular and servers in Node.js. <br>
 * 📙   experience with DBs: mongodb, SQL, MySQL, firebase (Realtime Database, Storage), localStorage, localForage <br> 
 * 💻   familiar with : Docker (docker-compose), Kubernetes, Wsl, VMWare, Hyper-V, Jenkins, Artifactory, teraform, fluxcd, Azure, AWS, GCP. <br>
 
