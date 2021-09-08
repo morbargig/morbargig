@@ -87,6 +87,9 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   <a href="https://vuejs.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Vue.js.png" height="70" />
   </a>
+    <a href="https://vuejs.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/angular.js.png" height="70" />
+  </a>
   </p>
 
   ### Back
