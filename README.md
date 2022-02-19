@@ -129,14 +129,17 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
  ### Languages
 
  <p float="left">
-   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/html-css-js.png" height="70" />
-  </a>
     <a href="https://www.javascript.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/js.png" height="70" />
   </a>
+   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/TypeScript.png" height="70" />
+  </a>
     <a href="https://www.javascript.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/python.png" height="70" />
+  </a>
+   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/html-css-js.png" height="70" />
   </a>
 </p>
 
