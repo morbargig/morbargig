@@ -99,7 +99,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
    <p float="left">
   <a href="https://nodejs.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Express.jpg" height="70" />
-  </a>****
+  </a>
   <a href="https://nodejs.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Node.js.png" height="70" />
   </a>
