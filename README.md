@@ -100,6 +100,12 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   <a href="https://nodejs.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Node.js.png" height="70" />
   </a>
+  <a href="https://nodejs.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/NestJS.png" height="70" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Express.png" height="70" />
+  </a>
   </p>
 
  ### OSs
