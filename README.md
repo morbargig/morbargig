@@ -25,7 +25,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 <a target="_blank" href= "https://drive.google.com/file/d/1pkcClx2aDqbIUsBzxPDHZTCiA8WWlv_9/view"><img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/pcap.png" height="100" width="100"/></a>
   <a target="_blank" href= "https://drive.google.com/file/d/199HQP_NtajjCiLko58k48mdEdDrZeSQK/view?usp=sharing"><img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/elevation.png" height="100" width="100"/></a>
   <a target="_blank" href= "https://drive.google.com/file/d/18GyKpU6piWjgX_PbKrolxz2unCOP7_WW/view"><img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/develeap.png" height="100" width="100"/></a>
-  <a target="_blank" href= "https://drive.google.com/file/d/1xwXPRGjkPcbVYjtik8-QOlEBMfIKXgI1/view?usp=sharing"><img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/8200.png" height="100" width="100"/></a>
+  <a target="_blank" href= "https://drive.google.com/file/d/1xwXPRGjkPcbVYjtik8-QOlEBMfIKXgI1/view?usp=sharing"><img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/8200.png" height="100" width="100"/></a>  <a target="_blank" href= "https://drive.google.com/file/d/1thrp2bcNtWselDykjPi6ARqxmrFKP8_t/view?usp=sharing"><img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/John-Bryce.png" height="100" width="100"/></a>
 </p>
 
 
