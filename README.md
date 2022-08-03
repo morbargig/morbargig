@@ -20,7 +20,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 
  ### Badges :
 <p align="center">
-     
+<a target="_blank" href= "https://www.credly.com/badges/3057b2d2-9f05-45e4-b630-79e42c0407f8?source=linked_in_profile"><img src="https://user-images.githubusercontent.com/51287453/182693001-f2030be9-34e8-4764-8cee-91656785e2cf.png" height="100" width="100"/></a>
 <a target="_blank" href= "https://www.youracclaim.com/badges/c00a5e80-f06a-4ba0-b7c3-7a6c07be0abc/linked_in_profile"><img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/MCSA.png" height="100" width="100"/></a>
 <a target="_blank" href= "https://drive.google.com/file/d/1pkcClx2aDqbIUsBzxPDHZTCiA8WWlv_9/view"><img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/pcap.png" height="100" width="100"/></a>
   <a target="_blank" href= "https://drive.google.com/file/d/199HQP_NtajjCiLko58k48mdEdDrZeSQK/view?usp=sharing"><img src="https://user-images.githubusercontent.com/51287453/182692751-e121401d-b8fc-4ba7-aa33-e215953976e0.png" height="100" width="100"/></a>
