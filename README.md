@@ -115,7 +115,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Node.js.png" height="70" />
   </a>
   <a href="https://nodejs.org/" target="_blank" >
-![image](https://user-images.githubusercontent.com/51287453/182683551-0bd946aa-8992-491a-bde2-77e4feb92eb3.png)
+    <img src="https://user-images.githubusercontent.com/51287453/182683675-97500816-2b99-45c4-8da0-21a079513d02.png" height="70" />
   </a>
   </p>
 
