@@ -10,7 +10,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 * 💼   Currently working from home with program i developed. 
 * 💻   Working on DevOps project, and more features for my business.   
 
-<details>
+<details open>
   <summary>Some other achievements about me~e~e</summary>
   <br>
 * 🎓   so i have knowledge in the next languages: Javascript, TypeScript, Python, Bash, java, c, powershell, CMD, php. <br>
