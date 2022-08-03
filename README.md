@@ -199,6 +199,10 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   </a>
     <a href="https://firebase.google.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/firebase.png" height="80" />
+  </a>
+    <a href="https://aws.amazon.com/dynamodb/" target="_blank" >
+    <img src="https://user-images.githubusercontent.com/51287453/182689762-cf533dfb-de7f-4306-81ed-36b5437c189f.png" height="80" />
+  </a>
 </p>
 
 
