@@ -77,9 +77,13 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
     <a href="https://docs.docker.com/compose/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/docker-compose.png"  height="75" />
   </a>
-      <a href="https://www.jenkins.io//" target="_blank" >
+    <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Jenkins.png"  height="75" />
   </a>
+    <a href="https://argo-cd.readthedocs.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Jenkins.png"  height="75" />
+  </a>
+
  </p>
 
  ### Fronts
