@@ -81,7 +81,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Jenkins.png"  height="75" />
   </a>
     <a href="https://argo-cd.readthedocs.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Jenkins.png"  height="75" />
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Argo-CD.webp"  height="75" />
   </a>
 
  </p>
