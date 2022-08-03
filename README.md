@@ -168,12 +168,12 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   
 ### Monitoring
   
- <p float="left">
+<p float="left">
   <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/grafana.gif" height="40" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/grafana.gif" height="60" />
   </a>
   <a href="https://www.elastic.co/" target="_blank" >
-    <img src="https://user-images.githubusercontent.com/51287453/182686670-45d3adcd-a87a-4c8f-894e-ad8503ee959d.png" height="60" />&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/51287453/182686670-45d3adcd-a87a-4c8f-894e-ad8503ee959d.png" height="60" />
   </a>
 </p>
 
@@ -181,7 +181,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/postgresql.gif" height="80" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/mongo.gif" height="80" />
