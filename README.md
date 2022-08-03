@@ -105,16 +105,19 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   </p>
 
   ### Back
-   <p float="left">
-  <a href="https://nodejs.org/" target="_blank" >
-    <img src="https://user-images.githubusercontent.com/51287453/182684545-3f83d970-abd1-4784-8e92-d5cbc4fabff7.png" height="70" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Node.js.png" height="70" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" >
-    <img src="https://user-images.githubusercontent.com/51287453/182683675-97500816-2b99-45c4-8da0-21a079513d02.png" height="70" />
-  </a>
+  <p float="left">
+    <a href="https://nodejs.org/" target="_blank" >
+      <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/Node.js.png" height="70" />
+    </a>
+    <a href="https://expressjs.com/" target="_blank" >
+      <img src="https://user-images.githubusercontent.com/51287453/182684545-3f83d970-abd1-4784-8e92-d5cbc4fabff7.png" height="70" />
+    </a>
+    <a href="https://nestjs.com/" target="_blank" >
+      <img src="https://user-images.githubusercontent.com/51287453/182683675-97500816-2b99-45c4-8da0-21a079513d02.png" height="70" />
+    </a>
+    <a href="[https://nodejs.org/](https://dotnet.microsoft.com/)" target="_blank" >
+      <img src="https://user-images.githubusercontent.com/51287453/182685754-5202f7e4-1cea-4270-b995-ae6bc0ebe65b.png" height="70" />
+    </a>
   </p>
 
  ### OSs
