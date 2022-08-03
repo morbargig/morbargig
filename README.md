@@ -153,6 +153,9 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
    <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/html-css-js.png" height="70" />
   </a>
+   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" >
+    <img src="https://user-images.githubusercontent.com/51287453/182688175-f4c21126-1f90-4567-adbd-9c8e469949b0.png" height="70" />
+  </a>
 </p>
 
 ### CSPs
