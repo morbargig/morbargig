@@ -118,6 +118,10 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
     <a href="https://dotnet.microsoft.com/" target="_blank" >
       <img src="https://user-images.githubusercontent.com/51287453/182686356-2e44a02d-a79c-4b29-a5fa-70195e9305de.png" height="70" />
     </a>
+  </a>
+    <a href="https://docs.aws.amazon.com/lambda/latest/dg/welcome.html" target="_blank" >
+    <img src="https://user-images.githubusercontent.com/51287453/182688724-a4c00646-116e-4a30-8f64-ce8ac68d46de.png" height="80" />
+  </a>
   </p>
 
  ### OSs
@@ -195,10 +199,6 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   </a>
     <a href="https://firebase.google.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/firebase.png" height="80" />
-  </a>
-    <a href="https://docs.aws.amazon.com/lambda/latest/dg/welcome.html" target="_blank" >
-    <img src="https://user-images.githubusercontent.com/51287453/182688724-a4c00646-116e-4a30-8f64-ce8ac68d46de.png" height="80" />
-  </a>
 </p>
 
 
