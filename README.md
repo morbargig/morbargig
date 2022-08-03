@@ -115,8 +115,8 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
     <a href="https://nestjs.com/" target="_blank" >
       <img src="https://user-images.githubusercontent.com/51287453/182683675-97500816-2b99-45c4-8da0-21a079513d02.png" height="70" />
     </a>
-    <a href="[https://nodejs.org/](https://dotnet.microsoft.com/)" target="_blank" >
-      <img src="https://user-images.githubusercontent.com/51287453/182685754-5202f7e4-1cea-4270-b995-ae6bc0ebe65b.png" height="70" />
+    <a href="https://dotnet.microsoft.com/" target="_blank" >
+      <img src="https://user-images.githubusercontent.com/51287453/182686356-2e44a02d-a79c-4b29-a5fa-70195e9305de.png" height="70" />
     </a>
   </p>
 
