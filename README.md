@@ -134,7 +134,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/linux.png" height="70" />
   </a>
   <a href="https://www.ubuntu.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/ubuntu.gif" height="70" />
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/ubuntu.gif" width="80" height="70" />
   </a>
   <a href="https://www.apple.com/mac/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/mac.png" height="70" />
@@ -169,7 +169,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   
  <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://user-images.githubusercontent.com/51287453/182684947-3151d9bd-f713-43ad-a2cb-0b57b958fa4f.png"  height="75" />
+    <img src="https://user-images.githubusercontent.com/51287453/182684947-3151d9bd-f713-43ad-a2cb-0b57b958fa4f.png" height="75" />
   </a>
   <a href="https://cloud.google.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/gcp.png"  height="75" />
@@ -180,7 +180,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   
 <p float="left">
   <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/grafana.gif" height="60" />
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/grafana.gif" height="60" width="80" />
   </a>
   <a href="https://www.elastic.co/" target="_blank" >
     <img src="https://user-images.githubusercontent.com/51287453/182686670-45d3adcd-a87a-4c8f-894e-ad8503ee959d.png" height="60" />
@@ -191,10 +191,10 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
   
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/postgresql.gif" height="80" />
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/postgresql.gif" height="80" width="80"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/mongo.gif" height="80" />
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/mongo.gif" height="80" width="80"  />
   </a>
     <a href="https://www.mysql.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/MySql.png" height="80" />
