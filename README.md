@@ -59,13 +59,13 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
 
  <p float="left">
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/cicd.gif"  height="65" width="120"/>
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/cicd.gif"  height="65" width="80"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/docker.gif"  height="80" width="120" /> 
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/docker.gif"  height="80" width="80" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/k8s.gif"  height="75" width="120"  />
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/k8s.gif"  height="75" width="80"  />
   </a>
     <a href="https://docs.docker.com/compose/" target="_blank" >
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/docker-compose.png"  height="75" />
@@ -80,7 +80,7 @@ I am a junior developer looking for a job , developing bots for a living . 🌈
     <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/terraform.gif" width="120" />
   </a>
     <a href="https://helm.sh/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/helm.gif" width="120" height="75" />
+    <img src="https://raw.githubusercontent.com/morbargig/morbargig/master/assets/helm.gif" width="80" height="75" />
   </a>
     <a >
     <img src="https://user-images.githubusercontent.com/51287453/182690207-c873abeb-65e2-438b-b370-220c76967df7.png"  height="75" />
