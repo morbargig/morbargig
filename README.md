@@ -2,7 +2,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-I am a senior developer,working as a Full Stack Engineer and developing e2de projects and bots for a living . 🌈    
+I am a senior developer, working as a Full Stack Engineer and developing e2de projects and bots for a living . 🌈    
 
 * 🌐   Knowledge in full stack.
 * 🧐   knowledge in DevOps.
