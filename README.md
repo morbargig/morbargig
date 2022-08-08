@@ -2,13 +2,13 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-I am a junior developer looking for a job , developing bots for a living . 🌈    
+I am a senior developer,working as a Full Stack Engineer and developing e2de projects and bots for a living . 🌈    
 
-* 🌐   Interested in full stack.
-* 🧐   Interested in DevOps.
+* 🌐   Knowledge in full stack.
+* 🧐   knowledge in DevOps.
 * 🎓   I finished study network administration, full stack development and DevOps engineering.
-* 💼   Currently working from home with program i developed. 
-* 💻   Working on DevOps project, and more features for my business.   
+* 💼   Currently working as employee and freelancer.
+* 💻   Experience in development, operation and marketing of my exclusive product.
 
 <details open>
   <summary>Some other achievements about me~e~e</summary>
